@@ -1,0 +1,29 @@
+### scientific computing ###
+numpy
+scipy
+
+### utility ###
+tqdm
+ipykernel
+ipywidgets
+
+### data manimulation and visualizaiton ###
+matplotlib
+pandas
+seaborn
+# tensorboard==2.10.0
+# tensorboardX==2.5.1
+
+### basic machine learning ###
+scikit-learn
+torch
+
+### reinforcement learning ###
+# gym==0.23.1
+# ray[rllib]==2.0.0
+
+### quantum ###
+# qutip==4.7.1
+# qiskit==0.33.0
+
+
