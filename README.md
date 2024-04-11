@@ -8,7 +8,7 @@ conda activate ENV_NAME
 - Install the required packages
 ```
 pip install -r requirements.txt
-sh setup.sh ENV_NAME
+sh setup.sh
 ```
 - Attach the conda environment to jupyter
 ```
